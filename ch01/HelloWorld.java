@@ -1,4 +1,3 @@
-package ie.gmit.dip;
 public class HelloWorld {
 
     public static void main(String[] args) {
