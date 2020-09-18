@@ -17,7 +17,7 @@ public class GuessMyNumber {
 
         // prompt the user
         System.out.println(
-                "I'm thinking of a number between 1 and 100\n" + "(including both). Can you guess what it is?");
+                "I'm thinking of a number between 1 and 100\n(including both). Can you guess what it is?");
         System.out.print("Type a number: ");
 
         // read input, compute and display difference
