@@ -12,7 +12,7 @@ public class Parameters {
 	
 	public static void main(String[] args) {
 		int num = 11;
-		String pet = "Taffy";
+		String pet = "Lassie";
 		String street = "High St.";
 		
 		zool(num, pet, street);

@@ -22,7 +22,7 @@ public class Date {
 		
 		printEuropean(day, date, month, year);
 		printAmerican(day, month, date, year);
-			
+		
 	}
 
 }
