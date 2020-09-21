@@ -1,2 +1,2 @@
 # ThinkJava
-My solutions to Think Java exercises.
+Code for my solutions to Think Java exercises.
