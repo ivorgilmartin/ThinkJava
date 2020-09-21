@@ -1,7 +1,4 @@
 # ThinkJava
 Code for my solutions to Think Java exercises.
 
-```
-https://github.com/AllenDowney/ThinkJavaCode.git
-
-```
+```https://github.com/AllenDowney/ThinkJavaCode.git```
