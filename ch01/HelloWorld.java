@@ -1,5 +1,5 @@
 /**
-* Compile and run a Java program
+* Java program
 */
 public class HelloWorld {
 
