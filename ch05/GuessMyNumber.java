@@ -13,19 +13,16 @@ public class GuessMyNumber {
 
     public static void scanGuess(Scanner in, int answer) {
         System.out.print("Enter a number: ");
-
         int guess = in.nextInt();
 
         if (guess == answer) {
             System.out.println("correct");
             return;
         }
-
         if (guess > answer) {
             System.out.println("too high");
             scanGuess(in, answer);
         }
-
         if (guess < answer) {
             System.out.println("too low");
             scanGuess(in, answer);
