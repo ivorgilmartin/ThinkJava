@@ -80,8 +80,8 @@ public class Chapter08_Solutions {
      * 8.7 Checks if the numbers in the array are all prime and their product is n.
      */
     public static boolean arePrimeFactors(int n, int[] a) {
-        int product = product(a);
-        int max = maxVal(a);
+        int product = product(a); // see product() below
+        int max = maxVal(a);      // see maxVal() below
         boolean[] sieve = sieve(max + 1);
         if(product != n) return false;
         for(int element:a) {
