@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 /**
  * Card class modified for chapter 12 exercises.
- * Modifications have JavaDoc comments. 
  * @author ivorgilmartin
  */
 public class Card {
